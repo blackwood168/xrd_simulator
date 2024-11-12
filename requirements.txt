@@ -1,1 +1,5 @@
-ipydex
+numpy
+scipy
+cctbx
+pandas
+multiprocessing
